@@ -1,6 +1,27 @@
-# FinTech Case Study
+# Table of Contents
+1. [Introduction- FinTech Case Study](#Introduction)
+2. [Domain Landscape](#Paragraph2)
+3. [Digit Co.](#Paragraph3)
+   1. [Overview and Origin](#SubParagraph1)
+   2. [Business Activities](#Subparagraph2) 
+   3. [Product Offering](#Subparagraph3)
+   4. [Target customers](#Subparagraph4)
+   5. [Technologies in use](S#ubparagraph5)
+   6. [Competitors](#Subparagraph6)
+   7. [Results](#Subparagraph7)
+   8. [Recommendations](#Subparagraph8)
 
-## Domain
+
+
+
+## Introduction FinTech Case Study <a name="Introduction"></a>
+
+
+This case study examines a particular company in a specific FinTech domain to understand how and why this company was created, its product offering, the competitive landsacpe and the future trends for the domain in which this company operates.
+
+## Domain <a name="paragraph1"></a>
+
+The domain selected for this case study is:
 - **Personal Finance/ Deposits/ Online Banking**
 
 Tink co-founder and CEO, Daniel Kjellen, sums up very well the key feature of personal finance applications:
@@ -9,7 +30,8 @@ Tink co-founder and CEO, Daniel Kjellen, sums up very well the key feature of pe
 This case study will discuss, **Digit**, a company operating in this domain and included in the *Forbes'2021 Fintech 50 list*. 
 
 
-## Overview and Origin- Digit Co.
+## Digit Co. <a name="paragraph2"></a>
+### Overview and Origin- Digit Co. <a name="subparagraph1"></a>
 
 - Per *Forbes'2021 Fintech 50 list*, Digit was one of the 11 personal finance startup that made a huge difference in the way their customers, who were facing the harsh impacts of the various measures implemented by different  governments to curtail the spread of Covid 19, managed their personal financial affairs. 
 
@@ -30,7 +52,7 @@ Current Valuation| approx US$500 2019 *(Crunchbase)*|
 
 
 
-## Business Activities- Digit Co.
+## Business Activities
 
 ### Financial Purpose
 Digit's purpose is to:
@@ -99,14 +121,22 @@ The process of digitalisation of financial transactions ahs been steeply acceler
 
 The key ares in the domain of personal finance that are expected to grow per * finance-monthly.com* are:
 
-1. Digital Banking
+1. Digital banking
 More and more consumers are now looking for user friendly apps which will make banking transactions simpler, speedier and more transparent.
 
 2. Comparison websites
 Today's consumers would like to receive the best product offering for which they are relying extensively on comparison websites. These website strive to provide the best compartitive information possible by using AI algorithims to rate and rank the offerings.
 
 3. Personalised financial experience
-In tomorrow's digital world, Robo advisors will make it plausible to offer tailored financial advice to suit each individual. Thsi technology will not only make financial decision making simpler but also offer the speed of delivery.
+In tomorrow's digital world, Robo advisors will make it plausible to offer tailored financial advice to suit each individual. This technology will not only make financial decision making simpler but also offer the speed of delivery.
+
+Per *mindk.com*, Banking as a Service, Open Banking and Embedded Finance are the next big trends in the area of Personal Finance.
+
+Banking as a service
+
+Open Banking, the key to the services offered by Digit Co. operates, allows non banking organisations to access real time banking data so that these organisations offer a variety of non banking services to consumers.
+
+Embedded Finance will allow a consumer to access any financial service via a mobile, web application from any non bankling organisation. The Embedded Financial Service Provider will be a bridge between financial institutions and non banking organisations. Examples of this service are: Credit (e.g. Afterpay POS credit Buy now pay letter), buying insurance, buying investments (), lending (Klarna),etc. . 
 
 
 ## Results
@@ -121,9 +151,6 @@ In tomorrow's digital world, Robo advisors will make it plausible to offer tailo
 
 ### Domain and Company Performance
 
-Although the app includes paying down debt as a topic within savings, the app maintains its focus. There are no features designed for money management, reporting or analytics of spending or net worth tracking.
-
-If you’re looking for a budgeting app solely focused on saving money, paying down debt and investing concurrently, Digit is a great budgeting app to consider. With a modest price point of $5 per month, the app may be worth it to some to take away the chore of manually saving each month and making investment decisions.
 
 ## Recommendations
 
@@ -139,7 +166,7 @@ Since Digit addresses the global issue of micro savings, it should scale up its 
 #### Broaden customer base
 - Set up potential tie ups with Governments, Banks and Financial Planners to provide the product to their customers e.g. welfare recepients, account holders, etc.
 
-
+To achieve the above, Digit Co. will need to continue to invest in Cloud computing services, development of APIs
 
 [^1 References are in italics]
 1. Forbes
@@ -147,6 +174,7 @@ Since Digit addresses the global issue of micro savings, it should scale up its 
 3. [https://ptmoney.com/digit-review/]
 4. [(https://www.forbes.com/advisor/banking/digit-budgeting-app-review/)]
 5. [(https://techcrunch.com/2014/09/12/tink/)]
-6. [(cruchbase.com/organization/digit-4/company_financials)]
+6. [(crunchbase.com/organization/digit-4/company_financials)]
 7. [(Investorjunkie.com/reviews/digit/)]
 8. [(finance_monthly.com)]
+9. [(mindk.com/blog/fintech-trends-2021)]
