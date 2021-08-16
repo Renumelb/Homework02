@@ -106,18 +106,15 @@ Digit is a subscription based model and is accessible via mobile application or 
 
 ### Competitors <a name="subparagraph6"></a>
 
-Listed below are some of Digit's competitors:
+This FinTech domain of personal finance is growing very rapidly. There are more than xx players in this market.Listed below are some of Digit's competitors:
 Company|Product Offering|Geography|Est.Value|
 -----|-----|-----|-----|
+|Chime|Allows individuals to round up purchases and automatically invest the change|US and Canada|USD14.5B|
+|Tink|Mobile app that provides insight to financial habits by integrating banking and credit card transactions|Scandinavian countries|Acquired by Visa for EU1.8B in June 2021|
+|Acorns|Mobile micro investing app|US|USD860M|
+|Betterment|Robo investment advisory services|US|USD800M|
 |Mint|Allows users to track bank, credit card, investment, and loan balances through a single user interface as well as create budgets and set financial goals|US and Canada|Acquired by Intuit|
 
-|Tink|Mobile app that provides insight to financial habits by integrating banking and credit card transactions|Scandinavian countries|Acquired by Visa for EU1.8B in June 2021|
-
-|Acorns|Mobile micro investing app|US|USD860M|
-
-|Betterment|Robo investment advisory services|US|USD800M|
-
-|Chime|Allows individuals to round up purchases and automatically invest the change|US and Canada|USD14.5B|
 
 [Tink(https://www.crunchbase.com/organization/tink)]
 [Chime and Acorn(https://craft.co/digitco/competitors?competitors=digitco%2Cchime%2Cacorns%2Ccharlie-326)]
@@ -136,25 +133,29 @@ Company|Product Offering|Geography|Est.Value|
 
 ## Domain Landscape and Company Performance <a name="paragraph3"></a>
 
-Personal finance Fintech startups are pre dominantly operaing in the US market. 
+Personal finance Fintech is still a nascent industry with most startups pre dominantly operating in the North American market. 
 
-But in the last few years, this has seen rapid change with European companies such as Numbrs (DE), Bankin’ (FR) and Money Dashboard (UK) offering more or less similar services. As long as We believe we have a strong advantage by creating a fully automated mobile product where everything is presented in a feed format which makes it useful even if you have only have 2 minutes to spar
+But in the last few years, this has seen rapid change with European companies such as Numbrs (DE), Bankin’ (FR) and Money Dashboard (UK) offering more or less similar services.
+
+The recent legislation of Open Banking, Data analytics and Artifical Intelligence will accelarate the personal finance products that will be introduced in the coming years.
 
 ## Trends
 
-The process of digitalisation of financial transactions ahs been steeply accelerated by Covid 19. Per John Ellmore, Director of KnowYourMoney.co.uk states that consequent to the impact of Covid 19:
+The process of digitalisation of financial transactions has been steeply accelerated by Covid 19. Social distancing and lockdowsn have forced the young and the old globally down the digital path. 
+
+Per John Ellmore, Director of KnowYourMoney.co.uk states that consequent to the impact of Covid 19 in UK:
 >* '57% of consumers now prefer to use online banking tools to manage their finances'*
 
-The key ares in the domain of personal finance that are expected to grow per * finance-monthly.com* are:
+The key areas in the domain of personal finance that are expected to grow per * finance-monthly.com* are:
 
 1. Digital banking
-More and more consumers are now looking for user friendly apps which will make banking transactions simpler, speedier and more transparent.
+More and more consumers will look for user friendly apps which will make banking transactions simpler, speedier and more transparent.
 
-2. Comparison websites
-Today's consumers would like to receive the best product offering for which they are relying extensively on comparison websites. These website strive to provide the best compartitive information possible by using AI algorithims to rate and rank the offerings.
-
-3. Personalised financial experience
+2. Personalised financial experience
 In tomorrow's digital world, Robo advisors will make it plausible to offer tailored financial advice to suit each individual. This technology will not only make financial decision making simpler but also offer the speed of delivery.
+
+3. Comparison websites
+Today's consumers would like to receive the best product offering for which they are relying extensively on comparison websites. These website strive to provide the best compartitive information possible by using AI algorithims to rate and rank the offerings.
 
 Per *mindk.com*, Banking as a Service, Open Banking and Embedded Finance are the next big trends in the area of Personal Finance.
 
@@ -162,9 +163,7 @@ Banking as a service
 
 Open Banking, the key to the services offered by Digit Co. operates, allows non banking organisations to access real time banking data so that these organisations offer a variety of non banking services to consumers.
 
-Embedded Finance will allow a consumer to access any financial service via a mobile, web application from any non bankling organisation. The Embedded Financial Service Provider will be a bridge between financial institutions and non banking organisations. Examples of this service are: Credit (e.g. Afterpay POS credit Buy now pay letter), buying insurance, buying investments (), lending (Klarna),etc. . 
-
-
+Embedded Finance will allow a consumer to access any financial service via a mobile, web application from any non banking organisation. The Embedded Financial Service Provider will be a bridge between financial institutions and non banking organisations. Examples of this service are: Afterpay, Klarna. 
 
 
 ## Recommendations <a name="paragraph4"></a>
@@ -177,12 +176,16 @@ Since Digit addresses the global issue of micro savings, it should scale up its 
 New entrants, like SoFi Money, are mimicking aspects of Digit’s offering and bundling automated saving into broader financial offerings. To survive, Digit will have to follow suit and introduce new features e.g. money management features such as reporting,  analytics of spending, net worth tracking, greater personlisation,
 
 3. Banking transactions
-- Currently does not allow withdrawals and deposits though Digit has announved the setting up a digital bank, Direct.
+- Currently does not allow withdrawals and deposits though Digit has announced the setting up a digital bank, Direct.
 
 4. Broaden customer base
 - Set up potential tie ups with Governments, Banks and Financial Planners to provide the product to their customers e.g. welfare recepients, account holders, etc.
 
-To achieve the above, Digit Co. will need to continue to invest in Cloud computing services, development of APIs
+To remain relevant and achieve the above, I believe, Digit Co. will need to:
+- continue to scale up its Cloud platforms and applications,
+- introduce multi lingual application so that it can operate globally
+- develop tailored algorithims specific to a user in a particular country using machine learning with input from other non technical areas (Psychology, Economics, Statistics, Country specific social cultures and norms),
+- collaborate with other organisations offering Embedded Financial Products
 
 
 
