@@ -1,30 +1,34 @@
 # Table of Contents
 1. [Introduction- FinTech Case Study](#Introduction)
-2. [Domain](#Paragraph1)
+2. [Domain and Company](#Paragraph1)
 3. [Digit Co.](#Paragraph2)
    1. [Overview and Origin](#SubParagraph1)
    2. [Business Activities](#Subparagraph2) 
    3. [Product Offering](#Subparagraph3)
    4. [Target customers](#Subparagraph4)
-   5. [Technologies in use](S#ubparagraph5)
+   5. [Technologies in use](#Subparagraph5)
    6. [Competitors](#Subparagraph6)
    7. [Results](#Subparagraph7)
 4. [Domain Landscape and Company Performance](#Paragraph3)
 5.  [Recommendations](#Paragraph4)
 6. [References](#paragraph5)
 
+<div style="page-break-after: always;"></div>
+
 ## Introduction- FinTech Case Study <a name="Introduction"></a>
 
-
-This case study will examine a specific FinTech company operating in a specific FinTech domain to understand the company's financial purpose, origin, product offering, competitors, performance and how the company can stay relevant in the ever changing domain landscape in which the company operates.
+This case study will examine a specific FinTech company operating in a specific FinTech domain to understand:
+1. The company's financial purpose, origin, product offering, competitors, performance and
+2. How the company can stay relevant in the ever changing domain landscape in which the company operates.
 
 
 ## Domain and Company <a name="paragraph1"></a>
 
 The domain selected for this case study is:
-- **Personal Finance/ Deposits/ Online Banking**
 
-Personal finance companies are harnessing technology to disrupt the current financial market, otherwise dominated by banking institutions, to offer their customers a wide range of mobile and web based applications to manage their expenses, income, credit, budget, savings and investments empowering individual's financial freedom.
+- **Personal Finance**/ Deposits/ Online Banking
+
+Personal Finance companies are harnessing technology to disrupt the current financial market, otherwise dominated by banking institutions, to offer their individual customers, a wide range of mobile and web based applications to manage their expenses, income, credit, budget, savings and investments empowering individual's financial freedom.
 
 Tink co-founder and CEO, Daniel Kjellen, summed up, very well, the key feature of personal finance applications:
 > 'We remove the hassle from managing your personal finances and make it smart, fun and actionable to keep track.'
@@ -36,21 +40,19 @@ This case study examines, **Digit Co.**, a private company operating in the Unit
 
 Web site: [Digit Co.](https://digit.co/)
 
-![Image](/Documents/Renu/Homework02/Homework02)
+![Logo](https://www.google.com/search?q=logo+digit+co.&sxsrf=ALeKk02MTo4lBO1kUt_9AYgSuHSOYE4GXQ:1629167131193&tbm=isch&source=iu&ictx=1&fir=xxL9r4avvHYBZM%252C37VbppQ2TRJcNM%252C_&vet=1&usg=AI4_-kSfvkKb7T0iakvsdxCOUuD-DKwLNg&sa=X&ved=2ahUKEwi_p4nBgLfyAhVeH7cAHVgSD9MQ9QF6BAgIEAE#imgrc=xxL9r4avvHYBZM)
 
 
 ### Overview and Origin <a name="subparagraph1"></a>
 
 - Per *Forbes'2021 Fintech 50 list*, Digit, was one of the 11 personal finance startups that made a huge difference in the way their customers, who were facing the harsh impacts of the various measures implemented by different  governments to curtail the spread of Covid 19, managed their personal financial affairs. 
 
+- Per *Forbes Advisor*:
+> 'Digit with more than 293,200 ratings on the App Store and Google Play, Digit, earns a spot on Forbes Advisors’ Best Budgeting Apps Of 2021 and is an excellent choice for consumers wanting to prioritize saving and investing.'
 
-- Per *Forbes Advisor*, Digi:
-> 'With more than 293,200 ratings on the App Store and Google Play, Digit, earns a spot on Forbes Advisors’ Best Budgeting Apps Of 2021 and is an excellent choice for consumers wanting to prioritize saving and investing.'
+Digit Co. was set up by, the then 29 year old, Edward Bloch, in 2013, in San Fransico, USA, with the key "financial" purpose of analysing a user's spending and earning habits and automatically saving money for them. Initial investors included Google Ventures and Baseline Ventures.
 
-Digit Co. was set up by then 29 year old, Edward Bloch, in 2013, in San Fransico, USA, with the key "financial" purpose of analysing a user's spending and earning habits and automatically saving money for them. Initial investors included Google Ventures and Baseline Ventures.
-
- It is estimated that Digit Co. has saved over US$1 billion so far for its customers. [(https://www.fastcompany.com/40533914/digit-with-1-billion-saved-turns-attention-to-consumer-debt)]
-
+ **It is estimated that Digit Co. has saved over US$1 billion so far for its customers.** [(https://www.fastcompany.com/40533914/digit-with-1-billion-saved-turns-attention-to-consumer-debt)]
 
 Item|Description
 -----|-----|
@@ -59,11 +61,12 @@ Incorporation Year|2013|
 Founders| Ethan Bloch|
 Funding|US$263M|
 Current Valuation| approx US$500 2019 *(Crunchbase.com)*|
-|Estimated Revenue|Est. US$15.3M *(Growjo.com)*|
+|Estimated Revenue|Est. US$15.3M per annum *(Growjo.com)*|
+
 
 ### Business Activities <a name="subparagraph2"></a>
 
-Digit's finacial purpose is to:
+Digit's financial purpose is to:
  > improve the financial health of everyone.
 
  Digit has deployed the phenomenal improvements in technology to help people automatically manage their personal finances by providing its users a "smart financial assistant".
@@ -73,6 +76,7 @@ Digit's finacial purpose is to:
   As PTMoney states:
  > "This micro-savings app can help people achieve financial goals while running quietly in the background of their financial life."
 
+
 ### Product Offering <a name="subparagraph3"></a>
 
 - Digit is a subscription based model and is accessible via mobile application or website.
@@ -81,7 +85,7 @@ Digit's finacial purpose is to:
 - There is no minimum investment required.
 - It offers an automated saving application that allows individuals to save small amounts at a time.
 - It provides a Budgeting application that customers can control and use to set up Savings and Goals.
-- It matches users with a diversified portfolio of exchange-traded funds (ETFs) based on the user’s risk tolerance and investing goals using AI. (This explains the phenomenal growth in ETFs in recent times).
+- Using AI, it matches users with a diversified portfolio of exchange-traded funds (ETFs) based on the user’s risk tolerance and investing goals.(This explains the phenomenal growth in ETFs in recent times).
 - Digit also offers the ability to save for retirement.
 
 
@@ -121,6 +125,7 @@ Company|Product Offering|Geography|Est.Value|
 
 
 ### Results <a name="subparagraph7"></a>
+
 As mentioned earlier, Digit has saved its customers over US$1 Billion so far, enabling many of its customers achieve their personal financial goals. 
 
 This has been possible due to:
@@ -130,15 +135,19 @@ This has been possible due to:
 - Automation of all tasks doing away the manual work of collating data which most individuals avoid.
 - Digit's use of technological solutions making its customers day to day living simpler.
 
+
 ## Domain Landscape and Company Performance <a name="paragraph3"></a>
 
 Personal finance Fintech is still a nascent industry with most startups pre dominantly operating in the North American market. 
 
+Digit has stated in this case study has been voted one of the best in the industry and is currently values at approx. US$500M. Digit's revenue is estimated at US$15M per annum approx. and employs approx 120 people.
+
 But in the last few years, this has seen rapid change with European companies such as Numbrs (DE), Bankin’ (FR) and Money Dashboard (UK) offering more or less similar services.
 
-The growth of Open Banking, Data Analytics and Artifical Intelligence will accelarate the personal finance products that will be introduced in the coming years.
 
 ## Trends
+
+The growth of Open Banking, Data Analytics and Artifical Intelligence will accelarate the personal finance products that will be introduced in the coming years.
 
 The process of digitalisation of financial transactions has also been steeply accelerated by Covid 19. Social distancing and lockdowns have forced the young and the old, globally, down the digital path making the growth in personal finance applications a "given".
 
