@@ -209,4 +209,4 @@ To achieve the above, Digit will require to:
 10. [(golden.com/wiki/digit_company)]
 11. [Tink(https://www.crunchbase.com/organization/tink)]
 12. [Chime and Acorn(https://craft.co/digitco/competitors?competitors=digitco%2Cchime%2Cacorns%2Ccharlie-326)]
-13. [Betterment (https://www.forbes.com/sites/sarahhansen/2020/02/12/the-future-of-investing-fintech-50-2020/?sh=765dc8957ada)]
+13. [Betterment(https://www.forbes.com/sites/sarahhansen/2020/02/12/the-future-of-investing-fintech-50-2020/?sh=765dc8957ada)]
