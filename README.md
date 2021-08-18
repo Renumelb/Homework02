@@ -50,7 +50,7 @@ Web site: [Digit Co.](https://digit.co/)
 - Per *Forbes Advisor*:
 > 'Digit with more than 293,200 ratings on the App Store and Google Play, Digit, earns a spot on Forbes Advisors’ Best Budgeting Apps Of 2021 and is an excellent choice for consumers wanting to prioritize saving and investing.'
 
-Digit Co. was set up by, the then 29 year old, Edward Bloch, in 2013, in San Fransico, USA, with the key "financial" purpose of analysing a user's spending and earning habits and automatically saving money for them. Initial investors included Google Ventures and Baseline Ventures.
+Digit Co. was set up by, the then 29 year old, Edward Bloch, in 2013, in San Fransisco, USA, with the key "financial" purpose of analysing a user's spending and earning habits and automatically saving money for them. Initial investors included Google Ventures and Baseline Ventures.
 
  **It is estimated that Digit Co. has saved over US$1 billion so far for its customers.** [(https://www.fastcompany.com/40533914/digit-with-1-billion-saved-turns-attention-to-consumer-debt)]
 
@@ -69,7 +69,7 @@ Current Valuation| approx US$500 2019 *(Crunchbase.com)*|
 Digit's financial purpose is to:
  > improve the financial health of everyone.
 
- Digit has deployed the phenomenal improvements in technology to help people automatically manage their personal finances by providing its users a "smart financial assistant".
+ Digit has taken advantage of the phenomenal improvements in technology to help people automatically manage their personal finances by providing its users a "smart financial assistant".
 
  It evaluates the individual's spending habits to determine the savings that can be transferred in small amounts to a linked Digit savings account. These savings are then utilised towards targeted spends or investments.
  
@@ -81,7 +81,7 @@ Digit's financial purpose is to:
 
 - Digit is a subscription based model and is accessible via mobile application or website.
 - Its focus areas are Consumer Savings and Investing.
-- It has developed an alogorithim to monitor and understand a subscriber's earning and spending pattern to calculate small amounts of savings without impacting the users.
+- It has developed an algorithm to monitor and understand a subscriber's earning and spending pattern to calculate small amounts of savings without impacting the users.
 - There is no minimum investment required.
 - It offers an automated saving application that allows individuals to save small amounts at a time.
 - It provides a Budgeting application that customers can control and use to set up Savings and Goals.
@@ -93,7 +93,7 @@ Digit's financial purpose is to:
 
 Key factors that have influenced Digit's target customer base are:
 - Today's technological advances that have led to the growth of 'frictionless spending' i.e. making spending too easy and seamless. Digit uses technology to offer "Frictionless savings".
-- The generational change in customer profile (aka millenials) majorly impacting adoption of technological solutions.
+- The generational change in customer profile (aka millennials) majorly impacting adoption of technological solutions.
 - The significant impact of Covid 19 on our "way" of life.
 
 Based on the above, the current target customers of Digit are:
@@ -105,7 +105,7 @@ The potential target audience for Digit is global i.e. youth who need to save an
  
 ### Technologies in Play <a name="subparagraph5"></a>
  - To achieve its business purpose, research suggests that Digit uses the following technologies:
- 1. Banking APIs- Digit's partner banks are Chase, Wells Fargo, BBVA, Luther Burbank, Bank of America and Axos. Digit accesses in real time customer bank and credit card transactions. (Digit uses Heroku, a Cloud Application Platform for databases and to build applications and APIs).
+ 1. Banking APIs- Digit's partner banks are Chase, Wells Fargo, BBVA, Luther Burbank, Bank of America and Axos. Digit accesses, in real time, customer bank and credit card transactions. (Digit uses Heroku, a Cloud Application Platform for databases and to build applications and APIs).
  2. Machine Learning with Behavioural Psychology to analyse transactions to assist in deployment of financial strategies.
  3. Mobile and web applications and the continued improvement in their capabilities/ access/security. (Digit Co uses Zendesk to manage customer interactions/Sectigo and Okta to manage customer identiy security management).
  4. Low cost communications technology.
@@ -126,28 +126,34 @@ Company|Product Offering|Geography|Est.Value|
 
 ### Results <a name="subparagraph7"></a>
 
-As mentioned earlier, Digit has saved its customers over US$1 Billion so far, enabling many of its customers achieve their personal financial goals. 
+As mentioned earlier, Digit has saved its customers, over US$1 Billion so far, enabling many of its customers to achieve their personal financial goals. 
 
 This has been possible due to:
-- Digit's AI based solution that removes  any bias involved in financial decision by objectively analysing the individual's finances and automatically choosing the best option for the individual.
+- Digit's AI based solution removes  any bias involved in financial decisions by objectively analysing the individual's finances and automatically choosing the best option for the individual.
 - Digit allows individuals to save small amounts making savings a habit and easier for individuals to reach targeted financial goals.
-- Digit's mobile application provides simple and easy to use experience for consumers.
-- Automation of all tasks doing away the manual work of collating data which most individuals avoid.
+- Digit's mobile application provides a simple and easy to use experience for consumers.
+- Automation of all tasks doing away with the manual work of collating data which most individuals avoid.
 - Digit's use of technological solutions making its customers day to day living simpler.
 
 
 ## Domain Landscape and Company Performance <a name="paragraph3"></a>
 
-Personal finance Fintech is still a nascent industry with most startups pre dominantly operating in the North American market. 
+Personal finance Fintech is still a nascent industry with most startups predominantly operating in the North American market as depicted in "Competitors" section in this case study. Also refer [Digit's competitors.](https://craft.co/digitco/competitors)
 
-Digit has stated in this case study has been voted one of the best in the industry and is currently values at approx. US$500M. Digit's revenue is estimated at US$15M per annum approx. and employs approx 120 people.
+Digit, as evidenced in this case study and summarised below, can be said to be successful in the domain of Personal Finance. 
 
-But in the last few years, this has seen rapid change with European companies such as Numbrs (DE), Bankin’ (FR) and Money Dashboard (UK) offering more or less similar services.
+*Summary:*
+- It has been listed in  Forbes 2021 top 50 Fintech companies.
+- It has received in excess of US$250M in funding so far from major venture capital funds. 
+- It is currently valued at approx. US$500M. 
+- Last but not the least, its product satisfies its stated financial purpose of encouraging micro savings- it has saved over US$1 Billion so far for its customers.
 
 
 ## Trends
 
-The growth of Open Banking, Data Analytics and Artifical Intelligence will accelarate the personal finance products that will be introduced in the coming years.
+In the last few years, this domain has seen rapid changes with European companies such as Numbrs (DE), Bankin’ (FR) and Money Dashboard (UK) offering more or less similar services.
+
+The growth of Open Banking, Data Analytics and Artificial Intelligence will accelerate the personal finance products that will be introduced in the coming years.
 
 The process of digitalisation of financial transactions has also been steeply accelerated by Covid 19. Social distancing and lockdowns have forced the young and the old, globally, down the digital path making the growth in personal finance applications a "given".
 
@@ -163,7 +169,7 @@ More and more consumers will look for user friendly apps which will make banking
 In tomorrow's digital world, Robo advisors will make it plausible to offer tailored financial advice to suit each individual. This technology will not only make financial decision making simpler but also offer the speed of delivery.
 
 3. Comparison websites
-Today's consumers would like to receive the best product offering for which they are relying extensively on comparison websites. These website strive to provide the best compartitive information possible by using AI algorithims to rate and rank the offerings.
+Today's consumers would like to receive the best product offering for which they are relying extensively on comparison websites. These websites strive to provide the best compartitive information possible by using AI algorithms to rate and rank the offerings.
 
 Per *mindk.com*, the areas that will see growth are:
 
@@ -180,18 +186,18 @@ To remain relevant, I believe, Digit Co. will need to:
 Since Digit addresses the global issue of micro savings, it should scale up its offering to other countries.
 
 2. Broaden its Product Offering
-New entrants, like SoFi Money, are mimicking aspects of Digit’s offering and bundling automated saving into broader financial offerings. To survive, Digit will have to follow suit and introduce new features e.g. money management features such as reporting,  analytics of spending, net worth tracking, greater personlisation,
+New entrants, like SoFi Money, are mimicking aspects of Digit’s offering and bundling automated saving into broader financial offerings. To survive, Digit will have to follow suit and introduce new features e.g. money management features such as reporting,  analytics of spending, net worth tracking, greater personlisation.
 
 3. Cater for Banking Transactions
-Currently does not allow withdrawals and deposits though Digit has announced the setting up a digital bank, Direct.
+Currently does not allow withdrawals and deposits though Digit has announced the setting up of a digital bank, Direct.
 
 4. Broaden its Customer Base
-Set up potential tie ups with Governments, Banks and Financial Planners to provide the product to their customers e.g. welfare recepients, account holders, etc.
+Set up potential tie ups with Governments, Banks and Financial Planners to provide the product to their customers e.g. welfare recipients, account holders, etc.
 
 To achieve the above, Digit will require to:
 - continue to scale up its Cloud platforms and applications.
-- introduce multi lingual applications so that it can operate globally.
-- develop tailored algorithims specific to a user in a particular country using machine learning with input from other non technical areas (Psychology, Economics, Statistics, Country specific social cultures and norms).
+- introduce multilingual applications so that it can operate globally.
+- develop tailored algorithms specific to a user in a particular country using machine learning with input from other non technical areas (Psychology, Economics, Statistics, Country specific social cultures and norms).
 - collaborate with other organisations offering Embedded Financial Products.
 
 
