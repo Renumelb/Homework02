@@ -33,7 +33,7 @@ Personal Finance companies are harnessing technology to disrupt the current fina
 Tink co-founder and CEO, Daniel Kjellen, summed up, very well, the key feature of personal finance applications:
 > 'We remove the hassle from managing your personal finances and make it smart, fun and actionable to keep track.'
 
-This case study examines, **Digit Co.**, a private company operating in the United States in this domain. Digit Co. has been included in the *[Forbes' 2021 Fintech 50 list.][(https://www.forbes.com/advisor/banking/digit-budgeting-app-review/)]*
+This case study examines, **Digit Co.**, a private company operating in the United States in this domain. Digit Co. has been included in the *[Forbes' 2021 Fintech 50 list.](https://www.forbes.com/advisor/banking/digit-budgeting-app-review/)*
 
 
 ## Digit Co. <a name="paragraph2"></a>
@@ -47,12 +47,12 @@ Web site: [Digit Co.](https://digit.co/)
 
 - Per *Forbes' 2021 Fintech 50 list*, Digit was one of the 11 personal finance startups that made a huge difference in the way their customers, who were facing the harsh impacts of the various measures implemented by different  governments to curtail the spread of Covid 19, managed their personal financial affairs. 
 
-- Per *[Forbes Advisor][[(https://www.forbes.com/advisor/banking/digit-budgeting-app-review/)]*:
+- Per *[Forbes Advisor](https://www.forbes.com/advisor/banking/digit-budgeting-app-review/)*:
 > 'Digit with more than 293,200 ratings on the App Store and Google Play, Digit, earns a spot on Forbes Advisors’ Best Budgeting Apps Of 2021 and is an excellent choice for consumers wanting to prioritize saving and investing.'
 
 Digit Co. was set up by, the then 29 year old, Edward Bloch, in 2013, in San Francisco, USA, with the key "financial" purpose of analysing a user's spending and earning habits and automatically saving money for them. Initial investors included Google Ventures and Baseline Ventures.
 
- **It is estimated that Digit Co. has saved over US$1 billion so far for its customers.** [(https://www.fastcompany.com/40533914/digit-with-1-billion-saved-turns-attention-to-consumer-debt)]
+ **It is estimated that Digit Co. has saved over US$1 billion so far for its customers.** [Fastcompany](https://www.fastcompany.com/40533914/digit-with-1-billion-saved-turns-attention-to-consumer-debt)
 
 Item|Description
 -----|-----|
@@ -73,7 +73,7 @@ Digit's financial purpose is to:
 
  It evaluates the individual's spending habits to determine the savings that can be transferred in small amounts to a linked Digit savings account. These savings are then utilised towards targeted spends or investments.
  
-  As *[PTMoney states][https://ptmoney.com/digit-review/]:*
+  As *[PTMoney states](https://ptmoney.com/digit-review/):*
  > "This micro-savings app can help people achieve financial goals while running quietly in the background of their financial life."
 
 
@@ -145,7 +145,7 @@ Digit, as evidenced in this case study and summarised below, can be said to be s
 *Summary:*
 - It has been listed in  Forbes 2021 top 50 Fintech companies.
 - It has received in excess of US$250M in funding so far from major venture capital funds. 
-- In 2019, it was valued at approx. US$500M. [Crunchbase][https://www.crunchbase.com/organization/digit-4]
+- In 2019, it was valued at approx. US$500M. [Crunchbase](https://www.crunchbase.com/organization/digit-4)
 - Last but not the least, its product satisfies its stated financial purpose of encouraging micro savings- it has saved over US$1 Billion so far for its customers.
 
 
@@ -160,7 +160,7 @@ The process of digitalisation of financial transactions has also been steeply ac
 Per John Ellmore, Director of KnowYourMoney.co.uk states that consequent to the impact of Covid 19 in UK:
 >* '57% of consumers now prefer to use online banking tools to manage their finances'*
 
-Based on the above, the key areas in the domain of personal finance that are expected to grow per * finance-monthly.com* are:
+Based on the above, the key areas in the domain of personal finance that are expected to grow per *finance-monthly.com* are:
 
 __1. Digital Banking__
 
@@ -174,7 +174,7 @@ __3. Comparison Websites__
 
 Today's consumers would like to receive the best product offering for which they are relying extensively on comparison websites. These websites strive to provide the best comparative information possible by using AI algorithms to rate and rank the offerings.
 
-Per *[mindk.com][[(mindk.com/blog/fintech-trends-2021)]*, the areas that will see growth are:
+Per *[mindk.com](mindk.com/blog/fintech-trends-2021)*, the areas that will see growth are:
 
 __1. Open Banking__
 
@@ -214,11 +214,10 @@ To achieve the above, Digit will require to:
 3. [https://ptmoney.com/digit-review/]
 4. [(https://www.forbes.com/advisor/banking/digit-budgeting-app-review/)]
 5. [(https://techcrunch.com/2014/09/12/tink/)]
-6. [(crunchbase.com/organization/digit-4/company_financials)]
-7. [(Investorjunkie.com/reviews/digit/)]
-8. [(finance_monthly.com)]
-9. [(mindk.com/blog/fintech-trends-2021)]
-10. [(golden.com/wiki/digit_company)]
-11. [Tink(https://www.crunchbase.com/organization/tink)]
-12. [Chime and Acorn(https://craft.co/digitco/competitors?competitors=digitco%2Cchime%2Cacorns%2Ccharlie-326)]
-13. [Betterment(https://www.forbes.com/sites/sarahhansen/2020/02/12/the-future-of-investing-fintech-50-2020/?sh=765dc8957ada)]
+6. [(https://crunchbase.com/organization/digit-4/company_financials)]
+7. [(https://Investorjunkie.com/reviews/digit/)]
+8. [(https://mindk.com/blog/fintech-trends-2021/)]
+9. [(https://golden.com/wiki/digit_company)]
+10. [Tink(https://www.crunchbase.com/organization/tink)]
+11. [Chime and Acorn(https://craft.co/digitco/competitors?competitors=digitco%2Cchime%2Cacorns%2Ccharlie-326)]
+123. [Betterment(https://www.forbes.com/sites/sarahhansen/2020/02/12/the-future-of-investing-fintech-50-2020/?sh=765dc8957ada)]
