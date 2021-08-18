@@ -40,7 +40,7 @@ This case study examines, **Digit Co.**, a private company operating in the Unit
 
 Web site: [Digit Co.](https://digit.co/)
 
-![Logo](digit-logo.png)
+![Logo](digit-logo.jpg)
 
 
 ### Overview and Origin <a name="subparagraph1"></a>
