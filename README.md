@@ -45,14 +45,14 @@ Web site: [Digit Co.](https://digit.co/)
 
 ### Overview and Origin <a name="subparagraph1"></a>
 
-- Per *Forbes' 2021 Fintech 50 list*, Digit was one of the 11 personal finance startups that made a huge difference in the way their customers, who were facing the harsh impacts of the various measures implemented by different  governments to curtail the spread of Covid 19, managed their personal financial affairs. 
+- Per *[Forbes' 2021 Fintech 50 list](https://www.forbes.com/advisor/banking/digit-budgeting-app-review/)*, Digit was one of the 11 personal finance startups that made a huge difference in the way their customers, who were facing the harsh impacts of the various measures implemented by different  governments to curtail the spread of Covid 19, managed their personal financial affairs. 
 
 - Per *[Forbes Advisor](https://www.forbes.com/advisor/banking/digit-budgeting-app-review/)*:
 > 'Digit with more than 293,200 ratings on the App Store and Google Play, Digit, earns a spot on Forbes Advisors’ Best Budgeting Apps Of 2021 and is an excellent choice for consumers wanting to prioritize saving and investing.'
 
 Digit Co. was set up by, the then 29 year old, Edward Bloch, in 2013, in San Francisco, USA, with the key "financial" purpose of analysing a user's spending and earning habits and automatically saving money for them. Initial investors included Google Ventures and Baseline Ventures.
 
- **It is estimated that Digit Co. has saved over US$1 billion so far for its customers.** [Fastcompany](https://www.fastcompany.com/40533914/digit-with-1-billion-saved-turns-attention-to-consumer-debt)
+ **It is estimated that Digit Co. has saved over US$1 billion so far for its customers.** *[Fastcompany](https://www.fastcompany.com/40533914/digit-with-1-billion-saved-turns-attention-to-consumer-debt)*
 
 Item|Description
 -----|-----|
@@ -60,7 +60,7 @@ Company Name|Digit Co.|
 Incorporation Year|2013|
 Founders| Ethan Bloch|
 Funding|US$263M|
-Current Valuation| approx US$500 2019 *(Crunchbase.com)*|
+Estimated Valuation| approx US$500M 2019 *(Crunchbase.com)*|
 |Estimated Revenue|Est. US$15.3M per annum *(Growjo.com)*|
 
 
@@ -107,9 +107,9 @@ The potential target audience for Digit is global, across all countries and age 
  - To achieve its business purpose, research suggests that Digit uses the following technologies:
  1. Banking APIs- Digit's partner banks are Chase, Wells Fargo, BBVA, Luther Burbank, Bank of America and Axos. Digit accesses, in real time, customer bank and credit card transactions. (Digit uses Heroku, a Cloud Application Platform for databases and to build applications and APIs).
  2. Machine Learning with Behavioural Psychology to analyse transactions to assist in deployment of financial strategies.
- 3. Mobile and web applications and the constant improvement in their capabilities/ access/security. (Digit Co uses Zendesk to manage customer interactions/Sectigo and Okta to manage customer identity security management).
+ 3. Mobile and web applications and the constant improvement in their capabilities/ access/security. (Digit uses Zendesk to manage customer interactions/Sectigo and Okta to manage customer identity security management).
  4. Low cost communications technology.
- 5. Cloud offering that allows for scaling of operations.(Digit Co. uses Cloudflare)
+ 5. Cloud offering that allows for scaling of operations.(Digit uses Cloudflare)
 
 
 ### Competitors <a name="subparagraph6"></a>
@@ -123,6 +123,7 @@ Company|Product Offering|Geography|Est.Value|
 |Betterment|Robo investment advisory services|US|USD800M|
 |Mint|Allows users to track bank, credit card, investment, and loan balances through a single user interface as well as create budgets and set financial goals|US and Canada|Acquired by Intuit|
 
+The surge in the number of digital banks who also offer budgeting, savings and investment products will impact Digit in the years to come e.g. *[Revolut](https://www.revolut.com/en-AU)*.
 
 ### Results <a name="subparagraph7"></a>
 
@@ -138,14 +139,15 @@ This has been possible due to Digit's solution:
 
 ## Domain Landscape and Company Performance <a name="paragraph3"></a>
 
-Personal Finance Fintech is still a nascent industry with most startups predominantly operating in the North American market as depicted in the "Competitors" section in this case study. Also refer [Digit's competitors.](https://craft.co/digitco/competitors)
+Personal Finance FinTech is still a nascent industry with most startups predominantly operating in the North American market as depicted in the "Competitors" section in this case study. Also refer *[Digit's competitors.](https://craft.co/digitco/competitors)*
+
+__*Summary:*__
 
 Digit, as evidenced in this case study and summarised below, can be said to be successful in the domain of Personal Finance. 
 
-*Summary:*
 - It has been listed in  Forbes 2021 top 50 Fintech companies.
 - It has received in excess of US$250M in funding so far from major venture capital funds. 
-- In 2019, it was valued at approx. US$500M. [Crunchbase](https://www.crunchbase.com/organization/digit-4)
+- In 2019, it was valued at approx. US$500M. *[Crunchbase](https://www.crunchbase.com/organization/digit-4)*.
 - Last but not the least, its product satisfies its stated financial purpose of encouraging micro savings- it has saved over US$1 Billion so far for its customers.
 
 
@@ -153,14 +155,14 @@ Digit, as evidenced in this case study and summarised below, can be said to be s
 
 In the last few years, this domain has seen rapid changes with European companies such as Numbrs (DE), Bankin’ (FR) and Money Dashboard (UK) offering more or less similar services.
 
-The growth of Open Banking, Data Analytics and Artificial Intelligence will accelerate the personal finance products that will be introduced in the coming years.
+The growth of Digital banking, Open Banking, Data Analytics and Artificial Intelligence will accelerate the personal finance products that will be introduced in the years ahead.
 
 The process of digitalisation of financial transactions has also been steeply accelerated by Covid 19. Social distancing and lockdowns have forced the young and the old, globally, down the digital path making the growth in personal finance applications a "given".
 
 Per John Ellmore, Director of KnowYourMoney.co.uk states that consequent to the impact of Covid 19 in UK:
 >* '57% of consumers now prefer to use online banking tools to manage their finances'*
 
-Based on the above, the key areas in the domain of personal finance that are expected to grow per *finance-monthly.com* are:
+Based on the above, the key areas in the domain of personal finance that are expected to grow per *[finance-monthly.com](https://www.finance-monthly.com)* are:
 
 __1. Digital Banking__
 
@@ -189,15 +191,19 @@ Embedded Finance will allow a consumer to access any financial service via a mob
 To remain relevant, I believe, Digit Co. will need to:
 
 __1. Broaden its Operations__
+
 Since Digit addresses the global issue of micro savings, it should scale up its offering to other countries.
 
 __2. Broaden its Product Offering__
+
 New entrants, like SoFi Money, are mimicking aspects of Digit’s offering and bundling automated saving into broader financial offerings. To survive, Digit will have to follow suit and introduce new features e.g. money management features such as reporting,  analytics of spending, net worth tracking, greater personalisation.
 
 __3. Cater for Banking Transactions__
+
 Currently does not allow withdrawals and deposits though Digit has announced the setting up of a digital bank, Direct.
 
 __4. Broaden its Customer Base__
+
 Set up potential tie ups with Governments, Banks and Financial Planners to provide the product to their customers e.g. welfare recipients, account holders, etc.
 
 To achieve the above, Digit will require to:
@@ -220,4 +226,5 @@ To achieve the above, Digit will require to:
 9. [(https://golden.com/wiki/digit_company)]
 10. [Tink(https://www.crunchbase.com/organization/tink)]
 11. [Chime and Acorn(https://craft.co/digitco/competitors?competitors=digitco%2Cchime%2Cacorns%2Ccharlie-326)]
-123. [Betterment(https://www.forbes.com/sites/sarahhansen/2020/02/12/the-future-of-investing-fintech-50-2020/?sh=765dc8957ada)]
+12. https://www.finance-monthly.com
+13. [Betterment(https://www.forbes.com/sites/sarahhansen/2020/02/12/the-future-of-investing-fintech-50-2020/?sh=765dc8957ada)]
