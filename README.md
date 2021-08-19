@@ -19,7 +19,7 @@
 
 This case study will examine a specific FinTech company operating in a specific FinTech domain to understand:
 1. The company's financial purpose, origin, product offering, competitors, performance and
-2. How the company can stay relevant in the ever changing domain landscape in which the company operates.
+2. How the company can stay relevant in the ever changing domain/landscape in which the company operates.
 
 
 ## Domain and Company <a name="paragraph1"></a>
@@ -28,7 +28,7 @@ The domain selected for this case study is:
 
 - **Personal Finance**/ Deposits/ Online Banking
 
-Personal Finance companies are harnessing technology to disrupt the current financial market, otherwise dominated by banking institutions, to offer their individual customers a wide range of mobile and web based applications to manage their expenses, income, credit, budget, savings and investments empowering individual's financial freedom.
+Personal Finance FinTech companies are harnessing technology to disrupt the current financial market, otherwise dominated by banking institutions, to offer their individual customers a wide range of mobile and web based applications to manage their expenses, income, credit, budget, savings and investments empowering individual's financial freedom.
 
 Tink co-founder and CEO, Daniel Kjellen, summed up, very well, the key feature of personal finance applications:
 > 'We remove the hassle from managing your personal finances and make it smart, fun and actionable to keep track.'
@@ -73,7 +73,7 @@ Digit's financial purpose is to:
 
  It evaluates the individual's spending habits to determine the savings that can be transferred in small amounts to a linked Digit savings account. These savings are then utilised towards targeted spends or investments.
  
-  As *[PTMoney states](https://ptmoney.com/digit-review/):*
+  As staed by *[PTMoney](https://ptmoney.com/digit-review/):*
  > "This micro-savings app can help people achieve financial goals while running quietly in the background of their financial life."
 
 
@@ -86,13 +86,13 @@ Digit's financial purpose is to:
 - It offers an automated saving application that allows individuals to save small amounts at a time.
 - It provides a Budgeting application that customers can control and use to set up Savings and Goals.
 - Using AI, it matches users with a diversified portfolio of exchange-traded funds (ETFs) based on the user’s risk tolerance and investing goals.(This explains the phenomenal growth in ETFs in recent times).
-- Digit also offers the ability to save for retirement.
+- Digit also offers the ability to save for retirement per US regulations.
 
 
 ### Target Customers <a name="subparagraph4"></a>
 
 Key factors that have influenced Digit's target customer base are:
-- Today's technological advances have led to the growth of 'frictionless spending' i.e. making spending too easy and seamless. Digit uses technology to offer 'frictionless savings'.
+- Today's technological advances that have led to the growth of 'frictionless spending' i.e. making spending too easy and seamless. Digit uses technology to offer 'frictionless savings'.
 - The generational change in customer profile (aka millennials) majorly impacting the pace of adoption of new technological solutions.
 - The significant impact of Covid 19 on our "way" of life.
 
@@ -109,16 +109,16 @@ The potential target audience for Digit is global, across all countries and age 
  2. Machine Learning with Behavioural Psychology to analyse transactions to assist in deployment of financial strategies.
  3. Mobile and web applications and the constant improvement in their capabilities/ access/security. (Digit uses Zendesk to manage customer interactions/Sectigo and Okta to manage customer identity security management).
  4. Low cost communications technology.
- 5. Cloud offering that allows for scaling of operations.(Digit uses Cloudflare)
+ 5. Cloud offering that allows for scaling of operations.(Digit uses Cloudflare).
 
 
 ### Competitors <a name="subparagraph6"></a>
 
-The FinTech domain of personal finance is growing very rapidly and is attracting new players each day. Listed below are some of Digit's competitors:
+The FinTech domain of Personal Finance is growing very rapidly and is attracting new players each day. Listed below are some of Digit's competitors:
 Company|Product Offering|Geography|Est.Value|
 -----|-----|-----|-----|
 |Chime|Allows individuals to round up purchases and automatically invest the change|US and Canada|USD14.5B|
-|Tink|Mobile app that provides insight to financial habits by integrating banking and credit card transactions|Scandinavian countries|Acquired by Visa for EU1.8B in June 2021|
+|Tink|Mobile app that provides insight to the financial habits by integrating banking and credit card transactions|Scandinavian countries|Acquired by Visa for EU1.8B in June 2021|
 |Acorns|Mobile micro investing application|US|USD860M|
 |Betterment|Robo investment advisory services|US|USD800M|
 |Mint|Allows users to track bank, credit card, investment, and loan balances through a single user interface as well as create budgets and set financial goals|US and Canada|Acquired by Intuit|
@@ -141,28 +141,28 @@ This has been possible due to Digit's solution:
 
 Personal Finance FinTech is still a nascent industry with most startups predominantly operating in the North American market as depicted in the "Competitors" section in this case study. Also refer *[Digit's competitors.](https://craft.co/digitco/competitors)*
 
-__*Summary:*__
+__*Summary- Digit Co. Performance:*__
 
 Digit, as evidenced in this case study and summarised below, can be said to be successful in the domain of Personal Finance. 
 
 - It has been listed in  Forbes 2021 top 50 Fintech companies.
 - It has received in excess of US$250M in funding so far from major venture capital funds. 
 - In 2019, it was valued at approx. US$500M. *[Crunchbase](https://www.crunchbase.com/organization/digit-4)*.
-- Last but not the least, its product satisfies its stated financial purpose of encouraging micro savings- it has saved over US$1 Billion so far for its customers.
+- Last but not the least, its product meets its stated financial purpose of encouraging micro savings- it has saved over US$1 Billion so far for its customers.
 
 
 ## Trends
 
 In the last few years, this domain has seen rapid changes with European companies such as Numbrs (DE), Bankin’ (FR) and Money Dashboard (UK) offering more or less similar services.
 
-The growth of Digital banking, Open Banking, Data Analytics and Artificial Intelligence will accelerate the personal finance products that will be introduced in the years ahead.
+The growth of Digital banking, Open Banking, Data Analytics and Artificial Intelligence will accelerate the Personal Finance products that will be introduced in the years ahead.
 
-The process of digitalisation of financial transactions has also been steeply accelerated by Covid 19. Social distancing and lockdowns have forced the young and the old, globally, down the digital path making the growth in personal finance applications a "given".
+The process of digitalisation of financial transactions has also been steeply accelerated by Covid 19. Social distancing and lockdowns have forced the young and the old, globally, down the digital path making the growth in Personal Finance applications a "given".
 
 Per John Ellmore, Director of KnowYourMoney.co.uk states that consequent to the impact of Covid 19 in UK:
 >* '57% of consumers now prefer to use online banking tools to manage their finances'*
 
-Based on the above, the key areas in the domain of personal finance that are expected to grow per *[finance-monthly.com](https://www.finance-monthly.com)* are:
+Based on the above, the key areas in the domain of Personal Finance that are expected to grow per *[finance-monthly.com](https://www.finance-monthly.com)* are:
 
 __1. Digital Banking__
 
@@ -180,9 +180,10 @@ Per *[mindk.com](mindk.com/blog/fintech-trends-2021)*, the areas that will see g
 
 __1. Open Banking__
 
-This is the key to the services offered by FinTech companies operating in the domain of Personal Finance. This allows non banking organisations to access real time banking data so that these organisations offer a variety of non banking services to consumers.
+This is the key to the services offered by FinTech companies operating in the domain of Personal Finance. This allows non banking organisations to access real time banking data so that these organisations can offer a variety of non banking services to consumers.
 
 __2. Embedded Finance__
+
 Embedded Finance will allow a consumer to access any financial service via a mobile, web application from any non banking organisation. The Embedded Financial Service Provider will be a bridge between financial institutions and non banking organisations. Examples of this service are: Afterpay, Klarna. 
 
 
@@ -200,7 +201,7 @@ New entrants, like SoFi Money, are mimicking aspects of Digit’s offering and b
 
 __3. Cater for Banking Transactions__
 
-Currently does not allow withdrawals and deposits though Digit has announced the setting up of a digital bank, Direct.
+Digit currently does not allow withdrawals and deposits, though Digit has announced the setting up of a digital bank, Direct.
 
 __4. Broaden its Customer Base__
 
